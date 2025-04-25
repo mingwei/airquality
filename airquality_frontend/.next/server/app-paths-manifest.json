@@ -1,1 +1,6 @@
-{}
+{
+  "/(forecasting)/forecast/page": "app/(forecasting)/forecast/page.js",
+  "/(forecasting)/page": "app/(forecasting)/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
